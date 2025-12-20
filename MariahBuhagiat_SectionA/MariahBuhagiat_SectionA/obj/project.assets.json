@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\buhag\\source\\repos\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
+      "projectUniqueName": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
       "projectName": "MariahBuhagiat_SectionA",
-      "projectPath": "C:\\Users\\buhag\\source\\repos\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
+      "projectPath": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
       "packagesPath": "C:\\Users\\buhag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\buhag\\source\\repos\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\obj\\",
+      "outputPath": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\buhag\\AppData\\Roaming\\NuGet\\NuGet.Config",
