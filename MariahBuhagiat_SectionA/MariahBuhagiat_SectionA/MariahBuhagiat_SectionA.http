@@ -1,0 +1,6 @@
+@MariahBuhagiat_SectionA_HostAddress = http://localhost:5118
+
+GET {{MariahBuhagiat_SectionA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

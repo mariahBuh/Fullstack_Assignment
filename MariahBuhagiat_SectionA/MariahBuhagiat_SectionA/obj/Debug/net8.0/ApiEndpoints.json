@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "MariahBuhagiat_SectionA.Controllers.MapController",
+    "Method": "GetMap",
+    "RelativePath": "api/Map/GetMap",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "X-Api-Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MariahBuhagiat_SectionA.Controllers.MapController",
+    "Method": "SetMap",
+    "RelativePath": "api/Map/SetMap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "map",
+        "Type": "MariahBuhagiat_SectionA.Models.Map",
+        "IsRequired": true
+      },
+      {
+        "Name": "X-Api-Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MariahBuhagiat_SectionA.Controllers.MapController",
+    "Method": "ShortestDistance",
+    "RelativePath": "api/Map/ShortestDistance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "X-Api-Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MariahBuhagiat_SectionA.Controllers.MapController",
+    "Method": "ShortestRoute",
+    "RelativePath": "api/Map/ShortestRoute",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "X-Api-Key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
