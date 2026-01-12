@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\services\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\services\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\services\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\services\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|c:\\users\\buhag\\dropbox\\pc\\documents\\github\\fullstack_assignment\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D5521B0-6B6F-4156-83B9-CD63976CFEAE}|MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj|solutionrelative:mariahbuhagiat_sectiona\\mariahbuhagiat_sectiona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,45 +50,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Program.cs",
+              "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Program.cs",
+              "ToolTip": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Program.cs",
+              "RelativeToolTip": "MariahBuhagiat_SectionA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:07:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Dockerfile",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Dockerfile",
               "ToolTip": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Dockerfile",
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Dockerfile",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-20T14:45:58.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T14:45:58.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PathFinder.cs",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Services\\PathFinder.cs",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Services\\PathFinder.cs",
               "ToolTip": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Services\\PathFinder.cs",
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Services\\PathFinder.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:49:24.202Z"
+              "WhenOpened": "2025-12-19T09:49:24.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MapController.cs",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Controllers\\MapController.cs",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Controllers\\MapController.cs",
               "ToolTip": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Controllers\\MapController.cs",
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Controllers\\MapController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAA8wHgAAAAyAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAHcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T09:33:01.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Models\\Map.cs",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Models\\Map.cs",
@@ -92,11 +109,12 @@
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Models\\Map.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:29:42.692Z"
+              "WhenOpened": "2025-12-19T09:29:42.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Models\\Node.cs",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Models\\Node.cs",
@@ -104,11 +122,12 @@
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Models\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:29:28.386Z"
+              "WhenOpened": "2025-12-19T09:29:28.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Edge.cs",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\Models\\Edge.cs",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\Models\\Edge.cs",
@@ -116,11 +135,12 @@
               "RelativeToolTip": "MariahBuhagiat_SectionA\\Models\\Edge.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T09:28:56.793Z"
+              "WhenOpened": "2025-12-19T09:28:56.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MariahBuhagiat_SectionA.csproj",
               "DocumentMoniker": "C:\\Users\\buhag\\Dropbox\\PC\\Documents\\GitHub\\Fullstack_Assignment\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
               "RelativeDocumentMoniker": "MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
@@ -128,8 +148,7 @@
               "RelativeToolTip": "MariahBuhagiat_SectionA\\MariahBuhagiat_SectionA.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-19T09:28:15.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T09:28:15.852Z"
             }
           ]
         }

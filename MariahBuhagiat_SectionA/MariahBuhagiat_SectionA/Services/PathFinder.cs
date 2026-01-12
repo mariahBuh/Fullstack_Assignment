@@ -48,7 +48,6 @@ namespace MariahBuhagiat_SectionA.Services
                     .Select(e => new { e.ToId, e.Weight })
                     .ToList();
 
-                // Implicit edge G → A with weight 500 (this is added for the path from G to A)
                 if (closestNode == "G")
                 {
                     neighbors.Add(new { ToId = "A", Weight = 500 });

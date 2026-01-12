@@ -20,14 +20,14 @@ namespace MariahBuhagiat_SectionA.Controllers
 
         // POST: api/map/SetMap
         [HttpPost("SetMap")]
-        public IActionResult SetMap([FromBody] Map map, [FromHeader(Name = "X-Api-Key")] string apiKey)
+        public IActionResult SetMap([FromBody] Map map, [FromHeader(Name = "X-Api-Key")] string? apiKey)
         {
             // API key checks
             if (string.IsNullOrEmpty(apiKey))
                 return Unauthorized("API key missing");
 
             if (apiKey != "FS_ReadWrite")
-                return Unauthorized("Invalid API key");
+                return Unauthorized("Invalid API key or insufficient permissions");
 
             // Map validation checks
             if (map == null ||
@@ -44,14 +44,14 @@ namespace MariahBuhagiat_SectionA.Controllers
 
         // GET: api/map/GetMap
         [HttpGet("GetMap")]
-        public IActionResult GetMap([FromHeader(Name = "X-Api-Key")] string apiKey)
+        public IActionResult GetMap([FromHeader(Name = "X-Api-Key")] string? apiKey)
         {
             // Unauthorized 
             if (string.IsNullOrEmpty(apiKey))
                 return Unauthorized("API key missing");
 
             if (apiKey != "FS_Read")
-                return Unauthorized("Invalid API key");
+                return Unauthorized("Invalid API key or insufficient permissions");
 
             // Missing Map Data
             if (_currentMap == null || _currentMap.Nodes == null || _currentMap.Nodes.Count == 0)
@@ -63,14 +63,14 @@ namespace MariahBuhagiat_SectionA.Controllers
 
         // GET: /api/map/ShortestRoute?from=G&to=E
         [HttpGet("ShortestRoute")]
-        public IActionResult ShortestRoute(string from, string to, [FromHeader(Name = "X-Api-Key")] string apiKey)
+        public IActionResult ShortestRoute(string from, string to, [FromHeader(Name = "X-Api-Key")] string? apiKey)
         {
             // Unauthorized checks
             if (string.IsNullOrEmpty(apiKey))
                 return Unauthorized("API key missing");
 
             if (apiKey != "FS_Read")
-                return Unauthorized("Invalid API key");
+                return Unauthorized("Invalid API key or insufficient permissions");
 
             // Missing Map Data
             if (_currentMap == null || _currentMap.Nodes == null || _currentMap.Nodes.Count == 0)
@@ -96,7 +96,7 @@ namespace MariahBuhagiat_SectionA.Controllers
 
         // GET: /api/map/ShortestDistance?from=G&to=E
         [HttpGet("ShortestDistance")]
-        public IActionResult ShortestDistance(string from, string to, [FromHeader(Name = "X-Api-Key")] string apiKey)
+        public IActionResult ShortestDistance(string from, string to, [FromHeader(Name = "X-Api-Key")] string? apiKey)
         {
             // Unauthorized checks
             if (string.IsNullOrEmpty(apiKey))
